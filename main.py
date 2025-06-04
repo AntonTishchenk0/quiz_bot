@@ -5,7 +5,7 @@ from handlers import commands, quiz_handlers, stats_handlers
 from data.database import create_tables
 
 logging.basicConfig(level=logging.INFO)
-API_TOKEN = '7946021118:AAHeGAtGKeG5rFftp0HGzbhYYdUNi8UXYGs'
+API_TOKEN = 'Ваш токен'
 
 
 async def main():
